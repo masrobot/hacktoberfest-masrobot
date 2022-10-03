@@ -6,4 +6,7 @@ For anyone who wants to learn about git like learn how to commit, pull, push, an
 learning how to pull request
 
 # Second Pull Request
-learning hot to pull request
+learning how to pull request
+
+# Third Pull Request
+learning how to pull request
